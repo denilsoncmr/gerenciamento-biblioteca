@@ -28,7 +28,3 @@ Para executar o Sistema de Gerenciamento de Biblioteca, siga estes passos:
 
 <li>Interaja com o sistema através das opções disponíveis no menu para adicionar, remover, verificar disponibilidade e emprestar livros.
 </ul>
-
-<h2>Contribuições</h2>
-Se você deseja contribuir para este projeto, fique à vontade para fazer um fork do repositório, criar uma branch com sua implementação e enviar um pull request. Toda contribuição é bem-vinda!
-
